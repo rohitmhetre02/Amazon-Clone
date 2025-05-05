@@ -20,7 +20,6 @@
 }
 
 .logo{
-    background-image: url("imgs/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -199,7 +198,8 @@ span{
 
 .box-img{
     height:300px ;
-    background-size: cover;
+    width: 290px;
+    background-size:cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
     cursor: pointer;
